@@ -16,6 +16,8 @@
 * [1272559 - Maximum Binary File Size limit exceeded when exporting a Web Intelligence report to CSV format](https://launchpad.support.sap.com/#/notes/1272559)
 * [1383664 - Error: ERR_WIS_30271 is seen when a Web Intelligence document with large data being exported to Excel, PDF, CSV, DHTML](https://launchpad.support.sap.com/#/notes/1272559)
 
+### SAP Installation 
+
 ### SAP Lumira
 
 * [2541042 - SAP Lumira 2.x performance and sizing - resources and troubleshooting *** MASTER KBA ***](https://launchpad.support.sap.com/#/notes/2541042)
